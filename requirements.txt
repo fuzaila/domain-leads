@@ -4,3 +4,4 @@ requests
 tldextract
 wordninja
 google-generativeai
+python-dotenv
