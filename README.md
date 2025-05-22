@@ -2,6 +2,8 @@
 
 A Streamlit web application to find potential leads for domain names using SerpAPI and Google's Gemini AI.
 
+Access it here: https://domain-leads.streamlit.app/
+
 ## Features
 - Extracts keywords from input domains.
 - Fetches Google Search results via SerpAPI.
