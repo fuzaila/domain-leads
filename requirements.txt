@@ -1,0 +1,6 @@
+streamlit
+pandas
+requests
+tldextract
+wordninja
+google-generativeai

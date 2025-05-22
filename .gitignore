@@ -1,0 +1,8 @@
+.env
+serp_cache/
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+*.streamlit/
