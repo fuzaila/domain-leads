@@ -47,7 +47,7 @@ def get_quota():
         return 0, 0
 
 # Define a list of TLDs that should be considered as keywords
-KEYWORD_TLDS = {"ai", "io", "co", "info", "app", "dev", "tech", "store", "design",
+KEYWORD_TLDS = {"ai", "io", "bot", "co", "info", "app", "dev", "tech", "store", "design",
                 "art", "photo", "pics", "studio", "digital", "media", "news",
                 "marketing", "agency", "solutions", "systems", "cloud", "data",
                 "finance", "money", "cash", "invest", "capital", "trading",
